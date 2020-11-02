@@ -233,6 +233,9 @@ img {
   .navbar .nav a {
     padding: 0 10px;
   }
+  .overlay-section {
+    background: url("../images/overlay.jpg") no-repeat -150px -340px;
+  }
 }
 
 @media (max-width: 700px) {
