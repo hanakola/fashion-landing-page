@@ -276,4 +276,7 @@ img {
   .footer-section div:nth-child(3) {
     display: none;
   }
+  .email-form {
+    width: 300px;
+  }
 }
